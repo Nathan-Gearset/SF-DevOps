@@ -4160,4 +4160,12 @@
         <apexClass>EmailUtils</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>FailingTests</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>PassingTests</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
 </Profile>
