@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Onboarding_Manager__c</fullName>
+    <externalId>false</externalId>
+    <label>Onboarding Manager</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Nathan@gs.com</fullName>
+                <default>false</default>
+                <label>Nathan@gs.com</label>
+            </value>
+            <value>
+                <fullName>Dave@gs.com</fullName>
+                <default>false</default>
+                <label>Dave@gs.com</label>
+            </value>
+            <value>
+                <fullName>Fabio@gs.com</fullName>
+                <default>false</default>
+                <label>Fabio@gs.com</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
